@@ -1,4 +1,4 @@
-To set up a Jenkins pipeline for a Spring Boot project hosted on GitHub, you'll need to follow these general steps:
+# To set up a Jenkins pipeline for a Spring Boot project hosted on GitHub, you'll need to follow these general steps:
 
 1. **Prerequisites**:
    - Ensure you have Jenkins installed and configured.
