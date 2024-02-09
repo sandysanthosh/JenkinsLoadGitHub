@@ -67,3 +67,7 @@ pipeline {
    - You may want to add more stages for additional testing, code analysis, etc.
 
 That's the basic outline for setting up a Jenkins pipeline for a Spring Boot project hosted on GitHub. Adjustments may be needed based on your specific project requirements and infrastructure.
+
+https://sandysanthosh.github.io/JenkinsLoadGitHub/
+
+
